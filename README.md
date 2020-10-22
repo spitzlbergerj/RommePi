@@ -1,6 +1,8 @@
 # RommePi
 RommePi hilft beim Spiel Romme. Anstatt zu Klopfen drückt man einen Buzzer. der erste Buzzer wird per LED signaisiert.
 
+[Video zum Betrieb des RommePi](https://www.spitzlberger.de/wp-content/uploads/RommePi.mp4)
+
 Aufgebaut ist das System wie folgt:
 - Raspberry Pi Zero
 - einige günstige Buzzer, an die Kabel gelötet wurden
