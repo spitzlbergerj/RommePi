@@ -3,7 +3,7 @@ RommePi hilft beim Kartenspiel Rommé. Anstatt zu Klopfen drückt man einen Buzz
 
 [Video zum Betrieb des RommePi](https://www.spitzlberger.de/wp-content/uploads/RommePi.mp4)  
 
-![CaravanPi - Testaufbau](https://github.com/spitzlbergerj/RommePi/raw/master/images/RommePi-1.jpg)
+![RommePi](https://github.com/spitzlbergerj/RommePi/raw/master/images/RommePi-1.jpg)
 
 weitere Fotos zum Aufbau unter [images](images)  
 
