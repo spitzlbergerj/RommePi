@@ -21,3 +21,14 @@ Funktion:
 - nach 3 Sekunden wird System resetet, Status LED wird grün, nächster Buzzer kann gedrückt werden
 - manuelles Reseten über den Reset Taster möglich
 - Langes Drücken des Reset Tasters fährt das System runter
+
+Raspberry Pi Zero
+- Stromzufuhr über Lötkontakte 
+
+LEDs
+- Ansteuerung über MCP23017 I2C Expander
+- Nutzung der Adafruit Library für MCP23017
+
+crontab root
+@reboot python3 -u /home/pi/RommePi/romme-klopfen.py
+
