@@ -1,7 +1,9 @@
 # RommePi
 RommePi hilft beim Kartenspiel Rommé. Anstatt zu Klopfen drückt man einen Buzzer. der erste Buzzer wird per LED signaisiert.
 
-[Video zum Betrieb des RommePi](https://www.spitzlberger.de/wp-content/uploads/RommePi.mp4)
+[Video zum Betrieb des RommePi](https://www.spitzlberger.de/wp-content/uploads/RommePi.mp4)  
+
+Fotos zum Aufbau unter [images](images)  
 
 Aufgebaut ist das System wie folgt:
 - Raspberry Pi Zero
@@ -31,6 +33,6 @@ LEDs
 - Ansteuerung über MCP23017 I2C Expander
 - Nutzung der Adafruit Library für MCP23017
 
-crontab root
+crontab root  
 @reboot python3 -u /home/pi/RommePi/romme-klopfen.py
 
