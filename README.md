@@ -22,7 +22,7 @@ Das Python Script wird über die crontab von Root beim Booten gestartet
 Funktion:
 - Gerät fährt hoch
 - Python wird gestartet
-- Statsu LED wird grün = Gerät bereit
+- Status LED wird grün = Gerät bereit
 - Buzzer wird gedrückt = zugehörige LED leuchtet, Status LED wird rot
 - nach 3 Sekunden wird System resetet, Status LED wird grün, nächster Buzzer kann gedrückt werden
 - manuelles Reseten über den Reset Taster möglich
