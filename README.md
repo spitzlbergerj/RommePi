@@ -1,5 +1,5 @@
 # RommePi
-RommePi hilft beim Kartenspiel Rommé. Anstatt zu Klopfen drückt man einen Buzzer. der erste Buzzer wird per LED signaisiert.
+RommePi hilft beim Kartenspiel Rommé. Anstatt zu Klopfen drückt man einen Buzzer. Der erste Buzzer wird per LED signaisiert.
 
 [Video zum Betrieb des RommePi](https://www.spitzlberger.de/wp-content/uploads/RommePi.mp4)  
 
